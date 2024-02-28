@@ -5,11 +5,10 @@
 //     Console.Write("yes\t");
 // }}
 
+using System.Runtime.InteropServices;
+
 string news = " To&get&to know smth you need to come";
 var array = news.Split("&");
 // foreach(string y in array)
 // Console.Write(y + "\t");
-// Console.Write(string.Join("**", array));
-Console.Write(news.IndexOf("smth"));
-Console.Write(news[7]);
-Console.Write(array.GetType());
+Console.Write(string.Join("**", array));
