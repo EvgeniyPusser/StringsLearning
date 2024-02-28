@@ -1,0 +1,15 @@
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\bin\Debug\net8.0\newTask1.exe
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\bin\Debug\net8.0\newTask1.deps.json
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\bin\Debug\net8.0\newTask1.runtimeconfig.json
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\bin\Debug\net8.0\newTask1.dll
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\bin\Debug\net8.0\newTask1.pdb
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.AssemblyInfoInputs.cache
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.AssemblyInfo.cs
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.sourcelink.json
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.dll
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\refint\newTask1.dll
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.pdb
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\newTask1.genruntimeconfig.cache
+D:\GeekBrain\Языки програмирования c#\Strings\newTask1\obj\Debug\net8.0\ref\newTask1.dll
