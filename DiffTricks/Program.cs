@@ -44,7 +44,7 @@ string GetDigitsFromString(string s)
 {
     
     string Digits = "";
-    int count = 0;
+    //int count = 0;
     foreach (char e in s)
     {
 
@@ -52,7 +52,7 @@ string GetDigitsFromString(string s)
         {
 
             Digits = Digits + e;
-            count++;
+            //count++;
         }
     }
     return Digits;

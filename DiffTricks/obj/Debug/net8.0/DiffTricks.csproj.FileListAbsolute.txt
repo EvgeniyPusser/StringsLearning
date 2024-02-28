@@ -1,0 +1,15 @@
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\bin\Debug\net8.0\DiffTricks.exe
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\bin\Debug\net8.0\DiffTricks.deps.json
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\bin\Debug\net8.0\DiffTricks.runtimeconfig.json
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\bin\Debug\net8.0\DiffTricks.dll
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\bin\Debug\net8.0\DiffTricks.pdb
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.AssemblyInfoInputs.cache
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.AssemblyInfo.cs
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.dll
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\refint\DiffTricks.dll
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.pdb
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.genruntimeconfig.cache
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\ref\DiffTricks.dll
+D:\GeekBrain\Языки програмирования c#\Strings\DiffTricks\obj\Debug\net8.0\DiffTricks.sourcelink.json
